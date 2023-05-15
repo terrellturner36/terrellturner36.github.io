@@ -1,1 +1,24 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: palegoldenrod;
+  text-align: center;
+}
+
+h2 {
+  color: chocolate;
+  text-align: center;
+}
+
+h3 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  font-family: black;
+  font-size: 20px;
+}
 
